@@ -21,5 +21,14 @@
     <ClCompile Include="cppclass_practice2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="cppclass_practice3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cppclass.practice4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
